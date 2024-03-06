@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/bin/Debug/net7.0/immutableID
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/bin/Debug/net7.0/immutableID.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/bin/Debug/net7.0/immutableID.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/bin/Debug/net7.0/immutableID.dll
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/bin/Debug/net7.0/immutableID.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.dll
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/refint/immutableID.dll
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/immutableID.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/immutableID/obj/Debug/net7.0/ref/immutableID.dll
